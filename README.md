@@ -58,7 +58,7 @@ Problems with the System
 ------------------------
 1. Failure to Detect Bright and White Cars:
    -
-    The system fail to detect some bright and white-colored cars. This issue will discuss in detail in the final report. 
+    The system fail to detect some bright and white-colored cars.
     In order to show that the detection of vans is working, we set the width of the vans to be between 400 and 600 pixels from the center of the frame.
     This is only to demonstrate that it works for vans as well, and can be modified later. We did not capture any passing motorcycles either. The values for
     capturing the different types of vehicles can be modified in the **classifyVehicles(w)** function.
